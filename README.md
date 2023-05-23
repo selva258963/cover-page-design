@@ -135,8 +135,10 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 </html>
 ## Output:
-![Screenshot (26)](https://github.com/selva258963/cover-page-design/assets/121961701/54e16f83-add7-4cec-9a7b-5a182de4fd1a)
 
+![Screenshot (27)](https://github.com/selva258963/cover-page-design/assets/121961701/3173a488-135a-403c-818e-02ed3f47921f)
+
+![Screenshot (26)](https://github.com/selva258963/cover-page-design/assets/121961701/3a4d3ce4-ba39-4278-94c8-5603181fc26f)
 
 ## Result:
 code is successfully exicuted
